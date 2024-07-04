@@ -1,0 +1,18 @@
+# - Multiple types of vehicles
+# Different pricing mechanism
+# Different parking spot finding algorithm
+
+# Flow 1
+# Car reaches one of the entry gates
+# It wants a parking ticket which contains the parking spot with it's address if available, else error
+
+# Flow 2
+# Pay and leave through one of the exit gates
+
+# Slot choosing algo
+# Based on slot type alone
+# Another possibility - A bigger slot's space can be used by multiple smaller vehicles if possible
+
+# Multiple methods of payment
+# Card
+# Cash
